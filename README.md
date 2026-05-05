@@ -110,12 +110,13 @@ Not tutorials. Not wrappers. The actual engineering behind systems that ship in 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/gunashankars?theme=dark&font=Nunito&ext=heatmap&width=500&border=0&radius=20" />
 </p>
+
 <p align="center">
   <a href="https://leetcode.com/u/gunashankars/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgunashankars&logo=leetcode&logoColor=yellow" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=green&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgunashankars&logo=leetcode&logoColor=green" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=orange&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgunashankars&logo=leetcode&logoColor=orange" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=red&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgunashankars&logo=leetcode&logoColor=red" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=$.solvedProblem&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FgunaShankarS%2Fsolved&logo=leetcode&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=green&label=Easy&query=$.easySolved&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FgunaShankarS%2Fsolved&logo=leetcode&logoColor=green" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=orange&label=Medium&query=$.mediumSolved&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FgunaShankarS%2Fsolved&logo=leetcode&logoColor=orange" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=red&label=Hard&query=$.hardSolved&url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FgunaShankarS%2Fsolved&logo=leetcode&logoColor=red" />
   </a>
 </p>
 

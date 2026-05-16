@@ -28,7 +28,7 @@
 
 👋 I'm Guna — building real AI systems and documenting the process.
 
-Not wrappers. The actual engineering behind systems that ship in production — LLMs, RAG pipelines, agentic architectures, transformer internals, and the infrastructure underneath.
+Not wrappers. The actual engineering behind systems that ship in production - LLMs, RAG pipelines, agentic architectures, transformer internals, and the infrastructure underneath.
 
 ---
 
